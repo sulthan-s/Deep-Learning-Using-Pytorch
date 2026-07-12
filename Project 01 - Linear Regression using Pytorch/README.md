@@ -69,7 +69,6 @@ The project is ideal for:
 📦 Linear-Regression-PyTorch
  ┣ 📜 Project 1 - Linear Regression using Pytorch.ipynb
  ┣ 📜 README.md
- ┗ 📜 requirements.txt
 ```
 
 ---
@@ -79,7 +78,7 @@ The project is ideal for:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/linear-regression-pytorch.git
+git clone https://github.com/sulthan-s/linear-regression-pytorch.git
 cd linear-regression-pytorch
 ```
 
@@ -108,20 +107,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 📦 Requirements
-
-Create a `requirements.txt` file with:
-
-```txt
-torch
-numpy
-matplotlib
-jupyter
-```
-
 ---
 
 ## ▶️ Running the Project
